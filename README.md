@@ -77,3 +77,6 @@ npm start
 set ELECTRON_RUN_AS_NODE=
 npm start
 ```
+
+**Built with love with the help of CipherSchools**
+
